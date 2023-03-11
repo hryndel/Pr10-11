@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Камень-ножницы-бумага(5)</string>
+    <string name="textPaper">Бумага</string>
+    <string name="textSpock">Спок</string>
+    <string name="textLizard">Ящерица</string>
+    <string name="textRock">Камень</string>
+    <string name="textStart">Начать</string>
+    <string name="textScissors">Ножницы</string>
+    <string name="textStat">Статистика</string>
+</resources>
